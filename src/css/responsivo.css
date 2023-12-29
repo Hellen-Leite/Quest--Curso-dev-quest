@@ -1,6 +1,7 @@
 @media(max-width:750px){
     body{
         background-image: url(../images/bg-mobile.svg);
+        background-repeat: no-repeat;
     }
     header .logo{
         margin-top: 50px;
